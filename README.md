@@ -122,3 +122,28 @@ final String baseUrl = "http://localhost:5000"; // Web
 
 Run App
 flutter run
+
+🤝 Contribution Guidelines
+
+We welcome contributions! Follow this workflow:
+
+✔ 1. Fork the repository
+✔ 2. Clone your fork
+git clone https://github.com/YOUR-USERNAME/jobhud.git
+
+✔ 3. Create a new branch
+git checkout -b feature-name
+
+✔ 4. Commit your changes
+git commit -m "Added new feature"
+
+✔ 5. Push the branch
+git push origin feature-name
+
+✔ 6. Open a Pull Request on GitHub
+🧪 Testing
+Backend:
+curl http://localhost:5000/tips/daily
+
+Flutter:
+flutter test
