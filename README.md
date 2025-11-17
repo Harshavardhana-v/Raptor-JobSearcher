@@ -10,7 +10,7 @@ It helps users explore jobs, check culture fit, get daily tips, track saved jobs
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![img](assets/ss1.png) | Home Screen |
+| ![img](assets/home.jpeg) | Home Screen |
 | ![img](assets/ss2.png) | Explore Jobs |
 | ![img](assets/ss3.png) | Job Details |
 | ![img](assets/ss4.png) | Profile Page |
