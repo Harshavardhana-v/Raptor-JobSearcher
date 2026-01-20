@@ -538,8 +538,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Harshavardhana V**
 
 - GitHub: [@Harshavardhana-v](https://github.com/Harshavardhana-v)
-- LinkedIn: [Add your LinkedIn](#)
-- Email: [Add your email](#)
+- LinkedIn: [www.linkedin.com/in/
+harshavardhana-v-6a4862325(#)
+- Email: [harshavardhana4nov@gmail.com](#)
 
 ---
 
